@@ -1,2 +1,4 @@
-Sơ đồ Class cho App gọi món ăn cho nhà hàng Sushi
+SƠ ĐỒ CLASS CHO APP GỌI MÓN ĂN CHO NHÀ HÀNG SUSHI
 ![Database](class-diagram.png)
+SƠ ĐỒ PHÂN RÃ CHỨC NĂNG CHO APP GỌI MÓN ĂN CHO NHÀ HÀNG SUSHI
+![Database](WBS - SUSHI APP.png)
